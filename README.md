@@ -6,6 +6,7 @@
 2. **Mark Roberge — The Sales Acceleration Formula** — раздел `/sales-acceleration/`.
 3. **Matthew Dixon, Brent Adamson — The Challenger Sale** — раздел `/challenger-sale/`.
 4. **Константин Харский — Осторожно, двери открываются** — раздел `/doors-open/`.
+5. **Ирина Екимовских — Считай и богатей** — раздел `/count-and-grow-rich/`.
 
 ## Возможности
 
