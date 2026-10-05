@@ -4,6 +4,7 @@
 
 1. **Mike Weinberg — Sales Management. Simplified.** — главная страница.
 2. **Mark Roberge — The Sales Acceleration Formula** — раздел `/sales-acceleration/`.
+3. **Matthew Dixon, Brent Adamson — The Challenger Sale** — раздел `/challenger-sale/`.
 
 ## Возможности
 
